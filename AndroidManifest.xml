@@ -34,7 +34,7 @@
         -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCt2AS5Ro9nPscSoyVe551_ENG-nDaxJZc" />
+            android:value="AIzaSyDVWUt9SuwCcJVt4nW0s76Kg7bwszrI1Fc" />
 
         <activity
             android:name="org.gdgph.davao.boholearthquake.MainActivity"
